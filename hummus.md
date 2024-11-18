@@ -4,3 +4,5 @@
 * Lemon
 * Olive oil
 * Salt
+
+Mix ingredient well
